@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!--
-**ashika-git/ashika-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**as-->hika-git/ashika-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an android project
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ashikajain2727@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am more into buissness
--->
+
